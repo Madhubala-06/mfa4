@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-size: 18px;
+    
+}
+.content{
+    background-color:  hsl(215, 32%, 27%);
+    height:480px;
+    width:250px;
+    margin-left: 30px;
+    margin-top: 10px;
+    position: relative;
+    border-radius:15px;
+    top:10px;
+    
+    
+}
+.main{
+    background-color:  hsl(216, 50%, 16%);
+    height:530px;
+    width:300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    position: absolute;
+    left:500px;
+    top:80px;
+    border-radius:15px;
+}
+.equil{
+    height:200px;
+    width:200px;
+    margin-left: 27px;
+    margin-top: 20px;
+    border-radius: 14px;
+}
+.our {
+   font-weight: 300px;
+   color:white;
+   margin-left:30px ;
+}
+.ourtwo{
+    font-weight: lighter;
+    color: hsl(215, 51%, 70%);
+    margin-left:30px ;
+}
+
+.days{
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+}
+.ether{
+    width: 50%;
+    display: flex;
+    color:aqua;
+    margin-left:5px;
+}
+
+.clock{
+    width:50%;
+    display: flex;
+    color:hsl(215, 51%, 70%);
+    margin-right: 8px;
+    
+}
+.align{
+    margin-top: 17px;
+    height:20px;
+    width:15px;
+}
+.aligntwo{
+    margin-left: 8px;
+}
+hr{
+    width: 200px;
+    
+}
+.bot{
+    display: flex;
+    color:white;
+}
+.wy{
+    height:22px;
+    width: 20px;
+    margin-left:23px;
+    margin-top: 15px;
+   
+    
+  
+}
+
+span{
+    color:hsl(215, 51%, 70%);
+}
+.alignthree{
+    margin-left: 7px;
+}
+    
